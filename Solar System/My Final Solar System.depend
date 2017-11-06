@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1508609878 source:c:\users\akshay bansal\desktop\my final solar system\main.cpp
+	"main.h"
+
+1508090245 source:c:\users\akshay bansal\desktop\my final solar system\imageloader.cpp
+	"imageloader.h"
+
+1508085590 c:\users\akshay bansal\desktop\my final solar system\imageloader.h
+	<GL/glut.h>
+	<GL/glext.h>
+	<SDL.h>
+	<SDL_image.h>
+
+1508507849 source:c:\users\akshay bansal\desktop\my final solar system\orbit.cpp
+	"orbit.h"
+
+1508527134 c:\users\akshay bansal\desktop\my final solar system\orbit.h
+	<gl/glew.h>
+	<math.h>
+	<vector>
+
+1508609689 c:\users\akshay bansal\desktop\my final solar system\main.h
+	<iostream>
+	<math.h>
+	<stdlib.h>
+	<SDL.h>
+	<SDL_image.h>
+	"orbit.h"
+	"imageloader.h"
+	"shader.h"
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+	<GL/glext.h>
+	<GL/freeglut.h>
+
+1508474975 source:c:\users\akshay bansal\desktop\my final solar system\shader.cpp
+	<stdio.h>
+	<string>
+	<vector>
+	<iostream>
+	<fstream>
+	<algorithm>
+	<stdlib.h>
+	<string.h>
+	<GL/glew.h>
+	"shader.h"
+
+1508474947 c:\users\akshay bansal\desktop\my final solar system\shader.h
+
+1508527311 source:c:\users\akshay bansal\desktop\my final solar system\planetring.cpp
+	"planetRing.h"
+	<iostream>
+	<math.h>
+
+1508527589 c:\users\akshay bansal\desktop\my final solar system\planetring.h
+	<vector>
+	"orbit.h"
+
