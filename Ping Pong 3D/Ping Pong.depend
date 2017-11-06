@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1508676555 source:c:\users\akshay bansal\desktop\ping pong\obj.cpp
+	"obj.h"
+
+1508675246 c:\users\akshay bansal\desktop\ping pong\obj.h
+	<vector>
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<GL/gl.h>
+	<GL/glu.h>
+	<math.h>
+
+1508945154 source:c:\users\akshay bansal\desktop\ping pong\main.cpp
+	<GL/freeglut.h>
+	<GL/glut.h>
+	"obj.h"
+	"imageloader.h"
+	<iostream>
+
+1508920850 source:c:\users\akshay bansal\desktop\ping pong\imageloader.cpp
+	"imageloader.h"
+
+1508920860 c:\users\akshay bansal\desktop\ping pong\imageloader.h
+	<GL/glut.h>
+	<GL/glext.h>
+	<SDL.h>
+	<SDL_image.h>
+
