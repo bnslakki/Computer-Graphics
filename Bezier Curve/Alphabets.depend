@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1509398266 source:c:\users\akshay bansal\desktop\alphabets\bezier.cpp
+	"bezier.h"
+
+1509421983 source:c:\users\akshay bansal\desktop\alphabets\main.cpp
+	"bezier.h"
+
+1509397813 c:\users\akshay bansal\desktop\alphabets\bezier.h
+	<GL/freeglut.h>
+	<GL/glut.h>
+	<math.h>
+	<vector>
+	<algorithm>
+	<iostream>
+
+1509043987 c:\users\akshay bansal\desktop\alphabets\pts.cpp
+	"bezier.h"
+
